@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Demetrio09/Homework_18_Budget_Tracker/static/css/main.9f0da1c7.chunk.css",
+    "main.js": "/Demetrio09/Homework_18_Budget_Tracker/static/js/main.e8b124ce.chunk.js",
+    "main.js.map": "/Demetrio09/Homework_18_Budget_Tracker/static/js/main.e8b124ce.chunk.js.map",
+    "runtime-main.js": "/Demetrio09/Homework_18_Budget_Tracker/static/js/runtime-main.8ceb5f57.js",
+    "runtime-main.js.map": "/Demetrio09/Homework_18_Budget_Tracker/static/js/runtime-main.8ceb5f57.js.map",
+    "static/js/2.264f4394.chunk.js": "/Demetrio09/Homework_18_Budget_Tracker/static/js/2.264f4394.chunk.js",
+    "static/js/2.264f4394.chunk.js.map": "/Demetrio09/Homework_18_Budget_Tracker/static/js/2.264f4394.chunk.js.map",
+    "index.html": "/Demetrio09/Homework_18_Budget_Tracker/index.html",
+    "precache-manifest.ecbebc5e6dc764f5483288e9e72f5017.js": "/Demetrio09/Homework_18_Budget_Tracker/precache-manifest.ecbebc5e6dc764f5483288e9e72f5017.js",
+    "service-worker.js": "/Demetrio09/Homework_18_Budget_Tracker/service-worker.js",
+    "static/css/main.9f0da1c7.chunk.css.map": "/Demetrio09/Homework_18_Budget_Tracker/static/css/main.9f0da1c7.chunk.css.map",
+    "static/js/2.264f4394.chunk.js.LICENSE.txt": "/Demetrio09/Homework_18_Budget_Tracker/static/js/2.264f4394.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ceb5f57.js",
+    "static/js/2.264f4394.chunk.js",
+    "static/css/main.9f0da1c7.chunk.css",
+    "static/js/main.e8b124ce.chunk.js"
+  ]
+}
