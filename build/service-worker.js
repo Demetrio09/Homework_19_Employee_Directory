@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Demetrio09/Homework_18_Budget_Tracker/precache-manifest.3cc57d9a242d06eac0c31a3cd14a53c2.js"
+  "/Demetrio09/Homework_18_Budget_Tracker/precache-manifest.ecbebc5e6dc764f5483288e9e72f5017.js"
 );
 
 self.addEventListener('message', (event) => {
